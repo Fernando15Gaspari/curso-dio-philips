@@ -1,4 +1,4 @@
-# curso-dio-philips
+# curso-dio-philipsFullstack
 - Desafio de Projeto sobre Git/Github, bootcamp Philips Fullstack
 
 ## Links Úteis
