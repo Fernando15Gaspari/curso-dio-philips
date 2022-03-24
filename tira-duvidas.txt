@@ -1,4 +1,4 @@
-git bash  é um terminal para facilitar o uso do git.
+git bash:  é um terminal para facilitar o uso do git.
 
 git init > inicia uma pasta git
 
