@@ -1,3 +1,4 @@
+
 git bash:  é um terminal para facilitar o uso do git.
 
 git init > inicia uma pasta git
@@ -5,3 +6,5 @@ git init > inicia uma pasta git
 git commit -m  > "inicia um commit"
 
 git push enviar p/ GitHub
+
+git pull > retorna o arquivo do GitHub p/ correção
